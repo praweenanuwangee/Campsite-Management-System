@@ -49,7 +49,7 @@ const Dashboard = () => {
             {
                 label: 'Employee Gender Distribution',
                 data: Object.values(genderData),
-                backgroundColor: ['#FAD006e', '#06402B'],
+                backgroundColor: ['#FAD006', '#06402B'],
                 hoverOffset: 4,
             },
         ],
